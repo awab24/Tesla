@@ -1,0 +1,17 @@
+ .appFile {
+  box-sizing: border-box;
+  font-family: "Rubik" , sans-serfi;
+  color: #393c41;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+}
+a{
+  text-decoration:  none;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
